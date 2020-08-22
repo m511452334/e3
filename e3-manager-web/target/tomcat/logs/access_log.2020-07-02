@@ -1,0 +1,2 @@
+127.0.0.1 - - [02/Jul/2020:00:59:56 +0800] "GET /nexus/content/groups/public/cn/e3mall/e3-content-interface/0.0.1-SNAPSHOT/maven-metadata.xml HTTP/1.1" 404 949 http-bio-8081-exec-1 45
+127.0.0.1 - - [02/Jul/2020:00:59:56 +0800] "GET /nexus/content/groups/public/cn/e3mall/e3-content/0.0.1-SNAPSHOT/maven-metadata.xml HTTP/1.1" 404 949 http-bio-8081-exec-2 3
