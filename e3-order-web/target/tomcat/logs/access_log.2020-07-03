@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [03/Jul/2020:21:51:49 +0800] "GET /order/order-cart.html HTTP/1.1" 200 20797 http-bio-8092-exec-1 1167
+0:0:0:0:0:0:0:1 - - [03/Jul/2020:21:51:53 +0800] "POST /order/create.html HTTP/1.1" 200 19337 http-bio-8092-exec-2 711
+0:0:0:0:0:0:0:1 - - [03/Jul/2020:21:54:14 +0800] "GET /order/order-cart.html HTTP/1.1" 200 20780 http-bio-8092-exec-4 19
+0:0:0:0:0:0:0:1 - - [03/Jul/2020:21:54:14 +0800] "GET /images/logo_word.jpg HTTP/1.1" 200 2840 http-bio-8092-exec-5 4
+0:0:0:0:0:0:0:1 - - [03/Jul/2020:21:54:14 +0800] "GET /images/kxicon.jpg HTTP/1.1" 200 2295 http-bio-8092-exec-7 6
+0:0:0:0:0:0:0:1 - - [03/Jul/2020:21:54:14 +0800] "GET /images/step_02.jpg HTTP/1.1" 200 6085 http-bio-8092-exec-6 10
+0:0:0:0:0:0:0:1 - - [03/Jul/2020:21:54:14 +0800] "GET /images/bottom_sm.png HTTP/1.1" 200 16384 http-bio-8092-exec-8 10
+0:0:0:0:0:0:0:1 - - [03/Jul/2020:21:54:14 +0800] "GET /images/header.png HTTP/1.1" 200 10751 http-bio-8092-exec-9 2
+0:0:0:0:0:0:0:1 - - [03/Jul/2020:21:54:17 +0800] "POST /order/create.html HTTP/1.1" 200 19337 http-bio-8092-exec-2 46
